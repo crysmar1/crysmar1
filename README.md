@@ -34,4 +34,4 @@
 - 👯 I’m looking to collaborate with projects in JS and in the languages described above. I have great analytical skills and love math.
 - 🤔 I’m looking for help with JS and clean code.
 - 💬 Ask me about what hasn't been said so far
-- 📫 How to reach me: E-mail - crysmar1@outlook.com, linkedin or here on github
+- 📫 How to reach me: E-mail - crysmar1@outlook.com, <a href="https://www.linkedin.com/in/cristianoribeiropereira" target="_blank">linkedin</a> or here on <a href="https://www.github.com/crysmar1" target="_blank">github</a>
