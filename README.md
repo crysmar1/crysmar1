@@ -29,12 +29,9 @@
 </div>
 
 ## 
-- 🔭 I’m currently working unemployed, just studying looking for a professional opportunity
+- 🔭 I’m currently working unemployed, just studying looking for a professional opportunity.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, MySql, PHP, NodeJS and a little bit of Java. Studying systems analysis and development.
 - 👯 I’m looking to collaborate with projects in JS and in the languages described above. I have great analytical skills and love math.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🤔 I’m looking for help with JS and clean code.
+- 💬 Ask me about what hasn't been said so far
+- 📫 How to reach me: E-mail - crysmar1@outlook.com, linkedin or here on github
